@@ -1,0 +1,47 @@
+.formspree-container {
+    width: 65%;
+}
+
+.formspree {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.formspree h4 {
+    font-weight: 100;
+}
+
+.fomrspree-input {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.formspree .button {
+    margin-top: 0;
+    padding-bottom: 8px;
+    align-self: center;
+}
+
+.formspree body {
+    height: 160px;
+}
+
+.formspree textarea {
+    height: auto;
+}
+
+.sendbuttoncontainer {
+    margin-top: 30px;
+}
+
+.sendbutton {
+    text-align: center;
+}
+
+
+.logo {
+    font-size: 23px;
+    font-weight: 450;
+}
